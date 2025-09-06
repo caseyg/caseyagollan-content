@@ -1,5 +1,8 @@
 ---
 date: 2025-09-06T20:30:17.738Z
+syndication:
+  - https://social.coop/@caseyg/115159244841939053
+updated: 2025-09-06T20:30:26.124Z
 ---
 
 Made a lot of progress on my Indiekit site today: https://caseyagollan.com/posts
