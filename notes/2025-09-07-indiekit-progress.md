@@ -1,7 +1,9 @@
 ---
 date: 2025-09-07T13:43:52.822-04:00
 category: indieweb
-updated: 2025-09-07T13:44:19.053-04:00
+updated: 2025-09-07T13:44:25.648-04:00
+syndication:
+  - https://social.coop/@caseyg/115164254382519869
 ---
 
 Today's Indiekit progress:
