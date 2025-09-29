@@ -3,6 +3,10 @@ date: 2025-09-29T11:48:12.606-04:00
 title: 'Stupid question: As consensus builds around the rejection of "AI slop" aesthetic, is it only a matter of time before models are re-trained to write in the style of "Not AI"?'
 category: AI
 visibility: public
+syndication:
+  - https://social.coop/@caseyg/115288369067246270
+  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3lzyechv4sp2e
+updated: 2025-09-29T11:48:25.580-04:00
 ---
 
 Wikipedia has an excellent and fascinating page on [Signs of AI Writing](https://en.m.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), which [qualify a page for "speedy deletion"](https://www.404media.co/wikipedia-editors-adopt-speedy-deletion-policy-for-ai-slop-articles/) instead of requiring the community to waste their time deliberating the merits of obvious AI slop.
