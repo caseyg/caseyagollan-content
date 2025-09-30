@@ -4,7 +4,10 @@ title: 2025-09-30 Changelog
 summary: "43 commits across three repos. Mostly a way to test-drive Claude Code with Sonnet 4.5, but also some Codex PRs to keep getting a feel for its weird new async style of development. Adding some real and test posts. Lots of design changes, though this thing is still pretty ugly overall. Lots of refactors: Moving from inline styles to SCSS, from monolithic Nunjucks templates to WebC components, from Github Pages to Cloudflare Pages, adding media storage in Cloudflare R2 instead of Github. Updating webmention handling with Brid.gy, webmention.io, and 11ty plugins. (Webmentions are hard!?)"
 category: changelog
 visibility: public
-updated: 2025-09-30T16:43:45.098-04:00
+updated: 2025-09-30T17:07:32.684-04:00
+syndication:
+  - https://social.coop/@caseyg/115295286201682942
+  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3m23glziobd2f
 ---
 
 ## 2025-09-29
