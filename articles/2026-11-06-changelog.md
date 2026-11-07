@@ -3,7 +3,7 @@ date: 2026-11-06T20:00:00-05:00
 title: 2026-11-06 Changelog
 summary: Replaced IndieKit with native IndieAuth and Micropub publishing on the site. Refreshed the library with 32 more books, readable shelves, better view switching, and less texture memory. Added saved cards for Bluesky and Mastodon likes/reposts, feeds, and media uploads on the existing files domain. Lots of plumbing and cleanup.
 category: changelog
-draft: true
+draft: false
 ---
 
 ## Publishing
