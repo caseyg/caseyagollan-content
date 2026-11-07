@@ -1,0 +1,9 @@
+---
+date: 2025-10-14T22:32:08-04:00
+pesos-source:
+  - at://did:plc:s3fw2giksymfvruno3tvem4k/app.bsky.feed.repost/3m377bdtv232k
+pesos-date-source:
+  - activity
+repost-of:
+  - https://bsky.app/profile/did:plc:vg6rczizmgropmoqacijzbv6/post/3m373zredhc2c
+---
