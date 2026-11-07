@@ -6,4 +6,17 @@ pesos-date-source:
   - activity
 like-of:
   - https://bsky.app/profile/did:plc:f64vb5rx6mqokvtn3gbgtnkv/post/3m6khdgrmt22r
+_micropubSocialSnapshots:
+  - version: 1
+    url: https://bsky.app/profile/did:plc:f64vb5rx6mqokvtn3gbgtnkv/post/3m6khdgrmt22r
+    platform: bluesky
+    author:
+      name: Scott Jehl
+      handle: "@scottjehl.com"
+      url: https://bsky.app/profile/scottjehl.com
+      avatar: https://files.caseyagollan.com/publishing/social/f0f1ca6a17acf2bfd9fa6efa6135111289a369702e699ab2641bbe522a283157.webp
+    published: 2025-11-26T18:11:20.756Z
+    fetchedAt: 2026-11-07T04:29:16.620Z
+    html: '<p>When <a href="https://youmightnotneedjquery.com/">youmightnotneedjquery.com</a> launched, some  felt it was early, but most agreed on the goal. Even the team shared that ethic: make our library obsolete by influencing standards. It worked. With React it is different: many devs understand it to *be* a standard. A social problem, not a technical one</p>'
+    images: []
 ---
