@@ -1,0 +1,9 @@
+---
+date: 2026-01-03T19:38:16-05:00
+pesos-source:
+  - at://did:plc:s3fw2giksymfvruno3tvem4k/app.bsky.feed.like/3mbkoocghsm2v
+pesos-date-source:
+  - activity
+like-of:
+  - https://bsky.app/profile/did:plc:5dic27ocbqannaaqxkwcodnq/post/3mbkbecnaoc2u
+---
