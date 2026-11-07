@@ -1,0 +1,23 @@
+---
+date: 2026-11-05T09:03:01-05:00
+pesos-source:
+  - at://did:plc:s3fw2giksymfvruno3tvem4k/app.bsky.feed.like/3mzkzsp734z2d
+like-of:
+  - https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzjbps4bic25
+_micropubSocialSnapshots:
+  - version: 1
+    url: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzjbps4bic25
+    platform: bluesky
+    author:
+      name: Erin Kissane
+      handle: "@kissane.myatproto.social"
+      url: https://bsky.app/profile/kissane.myatproto.social
+      avatar: https://files.caseyagollan.com/publishing/social/f44fce70ba38ba79b73b73fb8d04292d9e50449cb348368f89cabaea5f01c652.webp
+    published: 2026-11-04T21:18:27.052Z
+    fetchedAt: 2026-11-07T01:31:14.535Z
+    html: <p>Everyone acts like I am a naive baby when I say that it would help if
+      we actually got information about reality to people where they are and
+      gave them reason to believe that their actions would help, but I remain
+      steadfastly on my bullshit.</p>
+    images: []
+---
