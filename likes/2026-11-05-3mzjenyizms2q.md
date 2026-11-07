@@ -4,21 +4,5 @@ pesos-source:
   - at://did:plc:s3fw2giksymfvruno3tvem4k/app.bsky.feed.like/3mzkzrv72d52f
 like-of:
   - https://bsky.app/profile/did:plc:vg6rczizmgropmoqacijzbv6/post/3mzjenyizms2q
-_micropubSocialSnapshots:
-  - version: 1
-    url: https://bsky.app/profile/did:plc:vg6rczizmgropmoqacijzbv6/post/3mzjenyizms2q
-    platform: bluesky
-    author:
-      name: winston
-      handle: "@winston.cc"
-      url: https://bsky.app/profile/winston.cc
-      avatar: https://files.caseyagollan.com/publishing/social/c2fe22d0783d7adbf637b92fed248c2c654019e579507ba794f75a0b4d655281.webp
-    published: 2026-11-04T22:11:07.873Z
-    fetchedAt: 2026-11-07T02:17:55.345Z
-    html: <p>trying to find the thesis for the post i want to write and y'all i
-      really want to be a book writer is the issue. stuck being a technical
-      product manager instead.</p>
-    images:
-      - src: https://files.caseyagollan.com/publishing/social/0314f84003c3e26f1f094fe376c7e7f52fa6ab520dd05504721645924ab9c876.webp
-        alt: ""
+deleted: true
 ---

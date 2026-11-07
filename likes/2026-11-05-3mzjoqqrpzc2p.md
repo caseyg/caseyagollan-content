@@ -14,7 +14,7 @@ _micropubSocialSnapshots:
       url: https://bsky.app/profile/kissane.myatproto.social
       avatar: https://files.caseyagollan.com/publishing/social/f44fce70ba38ba79b73b73fb8d04292d9e50449cb348368f89cabaea5f01c652.webp
     published: 2026-11-05T01:11:37.858Z
-    fetchedAt: 2026-11-07T02:17:08.966Z
+    fetchedAt: 2026-11-07T04:25:01.757Z
     html: <p>If the librarians are with me, I feel right.</p>
     images: []
 ---
