@@ -6,4 +6,22 @@ pesos-date-source:
   - activity
 repost-of:
   - https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m2aexhm7z22x
+_micropubSocialSnapshots:
+  - version: 1
+    url: https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m2aexhm7z22x
+    platform: bluesky
+    author:
+      name: dan
+      handle: "@danabra.mov"
+      url: https://bsky.app/profile/danabra.mov
+      avatar: https://files.caseyagollan.com/publishing/social/9e55bb6110a77c3738ba1fe7ac3c5ce28e55098a3e8b30a0f90c1714ce56dd14.webp
+    published: 2025-10-02T20:21:27.596Z
+    fetchedAt: 2026-11-07T04:24:26.045Z
+    html: <p>i wrote down the process of resolving an at:// URI step by step. turns out, it's a great way to learn how the AT protocol works!</p>
+    preview:
+      url: https://overreacted.io/where-its-at/
+      title: Where It's at:// — overreacted
+      description: From handles to hosting.
+      image: https://files.caseyagollan.com/publishing/social/5fe9309d30875ce5bad6e9962670959a1b9c6e84798e2c9a08498e31b2ba6bc5.webp
+    images: []
 ---

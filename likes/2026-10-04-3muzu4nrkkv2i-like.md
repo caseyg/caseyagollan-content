@@ -6,4 +6,17 @@ pesos-date-source:
   - activity
 like-of:
   - https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4nrkkv2i
+_micropubSocialSnapshots:
+  - version: 1
+    url: https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4nrkkv2i
+    platform: bluesky
+    author:
+      name: Charlie Loyd
+      handle: "@vruba.bsky.social"
+      url: https://bsky.app/profile/vruba.bsky.social
+      avatar: https://files.caseyagollan.com/publishing/social/7dd5d0c8379a3d1d83c849077fad62993c43556e032a14b6a17607866ede963e.webp
+    published: 2026-09-08T20:24:22.918Z
+    fetchedAt: 2026-11-07T04:28:53.974Z
+    html: <p>I guess I don’t know what it is to make things in public right now. For all the obvious reasons. I know I like when others do, but I have very little to offer them. (This is me trying to name something that’s been bothering me, not a request for validation or suggestions.)</p>
+    images: []
 ---
