@@ -5,7 +5,7 @@ category: AI
 visibility: public
 syndication:
   - https://social.coop/@caseyg/115288369067246270
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3lzyechv4sp2e
+  - https://bsky.app/profile/caseyagollan.com/post/3lzyechv4sp2e
 updated: 2025-09-29T11:48:25.580-04:00
 ---
 

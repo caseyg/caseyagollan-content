@@ -6,7 +6,7 @@ uid: 01a1b0fc-fac2-7701-98a9-8e93f59f66be
 updated: 2026-11-06T08:33:05.731-05:00
 syndication:
   - https://social.coop/@caseyg/117569748018422867
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3mzninixo662s
+  - https://bsky.app/profile/caseyagollan.com/post/3mzninixo662s
 ---
 
 > "Blue" Gene Tyranny, Peter Gordon and the Trust in Rock band performed Trust in Rock over three nights, November 4–6, 1976, in Gallery A of the University Art Museum in Berkeley, CA. The album was recorded on the final night, 50 years ago today.

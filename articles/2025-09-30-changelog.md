@@ -7,7 +7,7 @@ visibility: public
 updated: 2025-09-30T17:07:32.684-04:00
 syndication:
   - https://social.coop/@caseyg/115295286201682942
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3m23glziobd2f
+  - https://bsky.app/profile/caseyagollan.com/post/3m23glziobd2f
 ---
 
 ## 2025-09-29

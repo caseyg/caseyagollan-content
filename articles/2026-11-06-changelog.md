@@ -9,7 +9,7 @@ summary: Replaced IndieKit with native IndieAuth and Micropub publishing on the
 category: changelog
 draft: false
 syndication:
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3mzoozs6d4tqh
+  - https://bsky.app/profile/caseyagollan.com/post/3mzoozs6d4tqh
   - https://social.coop/@caseyg/117572962830652076
 ---
 

@@ -5,7 +5,7 @@ video:
 visibility: public
 syndication:
   - https://social.coop/@caseyg/115364807512774922
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3m32cknowgp2r
+  - https://bsky.app/profile/caseyagollan.com/post/3m32cknowgp2r
 updated: 2025-10-12T23:47:43.778-04:00
 ---
 
