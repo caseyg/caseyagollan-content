@@ -34,4 +34,7 @@ _micropubSocialSnapshots:
       images:
         - src: https://files.caseyagollan.com/publishing/social/0fad393fbe3593b81a722ef7362e783241067dc9e76c10baa44f54b64af47b79.webp
           alt: "\"Last September, I received an offer from Sam Altman,\nwho wanted to hire me to voice the current ChatGPT\n4.0 system. He told me that he felt that by my voicing\nthe system, I could bridge the gap between tech\ncompanies and creatives and help consumers to feel\ncomfortable with the seismic shift concerning humans\nand Al. He said he felt that my voice would be\ncomforting to people.\nAfter much consideration and for personal reasons, I\ndeclined the offer. Nine months later, my friends, family\nand the general public all noted how much the newest\nsystem named \"Sky\" sounded like me.\nWhen I heard the released demo, I was shocked,\nangered and in disbelief that Mr. Altman would pursue\na voice that sounded so eerily similar to mine that my\nclosest friends and news outlets could not tell the\ndifference. Mr. Altman even insinuated that the\nsimilarity was intentional, tweeting a single word \"her\"\na reference to the film in which I voiced a chat system,\nSamantha...\""
+    thread:
+      post: https://bsky.app/profile/did:plc:ki27quedk633w437xz3smlys/post/3ksxevhjcpg2b
+      root: https://bsky.app/profile/did:plc:ki27quedk633w437xz3smlys/post/3ksxevhjcpg2b
 ---

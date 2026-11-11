@@ -21,4 +21,7 @@ _micropubSocialSnapshots:
     images:
       - src: https://files.caseyagollan.com/publishing/social/0c4e971ab9b168ade24247a843413dbb52399520fd74d255c3afbcf7dc622e20.webp
         alt: ""
+    thread:
+      post: https://bsky.app/profile/did:plc:5dic27ocbqannaaqxkwcodnq/post/3mbkbecnaoc2u
+      root: https://bsky.app/profile/did:plc:5dic27ocbqannaaqxkwcodnq/post/3mbkbecnaoc2u
 ---

@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:27:49.695Z
     html: '<p>There are three versions of this suggestion: strategic silence, listening, and stillness.<br><br>Strategic silence is actively making a decision not to talk about something.<br><br><a href="https://lesscomputer.ca/be-quiet/">lesscomputer.ca/be-quiet/</a></p>'
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mxgzzbveks2u
+      root: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mxgzzbveks2u
 ---

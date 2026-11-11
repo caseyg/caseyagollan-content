@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:28:05.763Z
     html: <p>it is SO FUCKED UP, I hate what this is doing to my sense of other people's integrity</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mqptqakfjc2g
+      root: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mqptneqzgc2i
+      parent: https://bsky.app/profile/did:plc:5qartdsce62n2wfyvtocmoob/post/3mqptovezg22t
 ---

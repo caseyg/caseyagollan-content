@@ -34,4 +34,7 @@ _micropubSocialSnapshots:
       images:
         - src: https://files.caseyagollan.com/publishing/social/9ac92727d5b40b87cd48af7f190ecb314695cdcfc9580ed899e39a2ab4ff5159.webp
           alt: "an example of fetching my top 10 rocksky artists with pdsfs. the command used is \n\njq -r '.artist' app.rocksky.scrobble/* | sort | uniq -c | sort -nr | head -10\n"
+    thread:
+      post: https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m33oflyb2s2i
+      root: https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m33oflyb2s2i
 ---

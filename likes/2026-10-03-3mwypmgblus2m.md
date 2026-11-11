@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:38.993Z
     html: <p>Okay. I might be back on the internet.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mwypmgblus2m
+      root: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mwypmgblus2m
 ---

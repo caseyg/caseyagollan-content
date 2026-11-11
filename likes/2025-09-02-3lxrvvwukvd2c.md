@@ -24,4 +24,7 @@ _micropubSocialSnapshots:
       description: YouTube video by Mark Parker
       image: https://files.caseyagollan.com/publishing/social/c4585346fe3c23ac2c1f01993dec0f9df193bae8dc7cab8f905eea1f68eae40d.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:cmdjmhhbzxvx6la7l6yfd63s/post/3lxrvvwukvd2c
+      root: https://bsky.app/profile/did:plc:cmdjmhhbzxvx6la7l6yfd63s/post/3lxrvvwukvd2c
 ---

@@ -22,4 +22,7 @@ _micropubSocialSnapshots:
       description: Overview • Svelte documentation
       image: https://files.caseyagollan.com/publishing/social/8943a5c99dc93fed78cb796a6e2175af30e157093ef8a32130d16f58b0dbe560.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:b6gbde64ngpelprsvnphc2l2/post/3m2ekqc4bqk2c
+      root: https://bsky.app/profile/did:plc:b6gbde64ngpelprsvnphc2l2/post/3m2ekqc4bqk2c
 ---

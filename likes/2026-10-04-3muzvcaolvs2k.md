@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:43.999Z
     html: <p>the machine doesn't really go any more. and it's hard to pick through the platforms changing and it being harder, mechanically, for the bits to go the right bobs; versus the zeitgeist changing, versus a certain diminution of my own creativity and feel for what the moment requires.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:jwcnmli4jkle63x4oqouiylu/post/3muzvcaolvs2k
+      root: https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4mxz6k2i
+      parent: https://bsky.app/profile/did:plc:jwcnmli4jkle63x4oqouiylu/post/3muzv4ixf5c2k
 ---

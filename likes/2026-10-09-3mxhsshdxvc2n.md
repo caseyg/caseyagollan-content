@@ -32,4 +32,7 @@ _micropubSocialSnapshots:
       fetchedAt: 2026-11-07T04:28:40.039Z
       html: <p>Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)<br><br><a href="https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/">Main Link</a> | Techmeme Permalink</p>
       images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:o2zbts7lyuztn2uy5pqaikhi/post/3mxhsshdxvc2n
+      root: https://bsky.app/profile/did:plc:o2zbts7lyuztn2uy5pqaikhi/post/3mxhsshdxvc2n
 ---

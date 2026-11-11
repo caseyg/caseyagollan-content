@@ -22,4 +22,7 @@ _micropubSocialSnapshots:
       description: Incredibly fast chat app for teams. Source code for the macOS and iOS apps. - inline-chat/inline
       image: https://files.caseyagollan.com/publishing/social/455d14e8b716719be2391f0db39fd0473d6dff3afe2f65cb86fa73b78cb5f928.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:bwnz3r3idw7ligdkodxhase7/post/3lfb7uvg4xs22
+      root: https://bsky.app/profile/did:plc:bwnz3r3idw7ligdkodxhase7/post/3lfb7uvg4xs22
 ---

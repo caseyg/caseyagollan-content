@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:29:16.620Z
     html: '<p>When <a href="https://youmightnotneedjquery.com/">youmightnotneedjquery.com</a> launched, some  felt it was early, but most agreed on the goal. Even the team shared that ethic: make our library obsolete by influencing standards. It worked. With React it is different: many devs understand it to *be* a standard. A social problem, not a technical one</p>'
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:f64vb5rx6mqokvtn3gbgtnkv/post/3m6khdgrmt22r
+      root: https://bsky.app/profile/did:plc:f64vb5rx6mqokvtn3gbgtnkv/post/3m6khdgrmt22r
 ---

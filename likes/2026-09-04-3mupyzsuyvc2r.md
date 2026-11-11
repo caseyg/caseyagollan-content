@@ -45,4 +45,7 @@ _micropubSocialSnapshots:
         fetchedAt: 2026-11-07T04:28:56.779Z
         html: <p>You might not have noticed, but leaflet has kick ass list handling, and you can use it as a pretty full featured outliner! Check out this demo :</p>
         images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:jjsc5rflv3cpv6hgtqhn2dcm/post/3mupyzsuyvc2r
+      root: https://bsky.app/profile/did:plc:jjsc5rflv3cpv6hgtqhn2dcm/post/3mupyzsuyvc2r
 ---

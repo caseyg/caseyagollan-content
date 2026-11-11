@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:27:27.563Z
     html: <p>whewww I am trying to write the most boring half-ass essay about, like, &quot;trust &amp; safety&quot; and you're just going to get everything I care about alongside/instead</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mqplngnhls2h
+      root: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mqplngnhls2h
 ---
