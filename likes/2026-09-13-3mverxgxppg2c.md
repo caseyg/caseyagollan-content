@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:26:00.841Z
     html: "<p>So how about this for a &quot;pause AI&quot; proposal: &quot;pause credulous AI reporting&quot;. No more media about &quot;breakthroughs&quot; or &quot;rogue agent swarms&quot; or ... UNLESS and UNTIL that media demands the actual empirical evidence and/or focuses on the motivations of &amp; harms by these companies.</p>"
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:aeug3w4mdhnc2wv73hmrh36v/post/3mverxgxppg2c
+      root: https://bsky.app/profile/did:plc:aeug3w4mdhnc2wv73hmrh36v/post/3mverm6x3og2a
+      parent: https://bsky.app/profile/did:plc:aeug3w4mdhnc2wv73hmrh36v/post/3mvervgdptd2e
 ---

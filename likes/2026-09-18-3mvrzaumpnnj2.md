@@ -21,4 +21,7 @@ _micropubSocialSnapshots:
     images:
       - src: https://files.caseyagollan.com/publishing/social/34f6ed6c62e7e03a9297034c78646da49be62e07aaccc30356a7b3cdc341541c.webp
         alt: "A black-and-white photo of an Oblique Strategy card. The card reads: 'Gardening, not architecture'."
+    thread:
+      post: https://bsky.app/profile/did:plc:k4cu3cld44akx3irhvxxsvse/post/3mvrzaumpnnj2
+      root: https://bsky.app/profile/did:plc:k4cu3cld44akx3irhvxxsvse/post/3mvrzaumpnnj2
 ---

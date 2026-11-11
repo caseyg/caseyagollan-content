@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:54.799Z
     html: <p>cultural / rather than technical / interoperability</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mwqvdcjsr226
+      root: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mwqvdcjsr226
 ---

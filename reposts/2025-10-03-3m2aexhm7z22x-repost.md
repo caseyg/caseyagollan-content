@@ -24,4 +24,7 @@ _micropubSocialSnapshots:
       description: From handles to hosting.
       image: https://files.caseyagollan.com/publishing/social/5fe9309d30875ce5bad6e9962670959a1b9c6e84798e2c9a08498e31b2ba6bc5.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m2aexhm7z22x
+      root: https://bsky.app/profile/did:plc:fpruhuo22xkm5o7ttr2ktxdo/post/3m2aexhm7z22x
 ---

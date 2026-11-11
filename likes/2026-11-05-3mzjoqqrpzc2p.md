@@ -17,4 +17,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:01.757Z
     html: <p>If the librarians are with me, I feel right.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzjoqqrpzc2p
+      root: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzj5faxfn22h
+      parent: https://bsky.app/profile/did:plc:tjj7wet2ww7v7rrn7lvcf37p/post/3mzjomi7lc22n
 ---

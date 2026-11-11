@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:28:53.974Z
     html: <p>I guess I don’t know what it is to make things in public right now. For all the obvious reasons. I know I like when others do, but I have very little to offer them. (This is me trying to name something that’s been bothering me, not a request for validation or suggestions.)</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4nrkkv2i
+      root: https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4mxz6k2i
+      parent: https://bsky.app/profile/did:plc:hvy6goesu5se3oheeldyshqx/post/3muzu4nrkku2i
 ---

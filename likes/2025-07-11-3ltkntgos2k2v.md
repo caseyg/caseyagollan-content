@@ -24,4 +24,7 @@ _micropubSocialSnapshots:
       description: Words in Space is the work of Shannon Mattern.
       image: https://files.caseyagollan.com/publishing/social/a1f956b5034b25c1d13cf9888307cc6f0443019ac90e77182433053f3188d336.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:enhxzjrzrnxutgza7ix3c4cu/post/3ltkntgos2k2v
+      root: https://bsky.app/profile/did:plc:enhxzjrzrnxutgza7ix3c4cu/post/3ltkntgos2k2v
 ---

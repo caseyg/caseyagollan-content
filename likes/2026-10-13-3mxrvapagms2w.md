@@ -24,4 +24,7 @@ _micropubSocialSnapshots:
       description: Metahaven, Ben Pulver, and Giulia Colletti
       image: https://files.caseyagollan.com/publishing/social/1be613b1ce7cfea6e2bb100036ebbeaa3fbe5862ef117d25854bd65f29376536.webp
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:cirt767ov2uwbfjfsitisanu/post/3mxrvapagms2w
+      root: https://bsky.app/profile/did:plc:cirt767ov2uwbfjfsitisanu/post/3mxrvapagms2w
 ---

@@ -21,4 +21,7 @@ _micropubSocialSnapshots:
     images:
       - src: https://files.caseyagollan.com/publishing/social/6df8484daa5a799fae183386da5b4576ec2ac6b14fff60d901f03c3f7adc0b6a.webp
         alt: "A chart of food mascots. Pick four to protect you, while the rest try to kill you. The choices are:\nKool Aid Man\nRonald McDonald \nChef Boyardee\nMr. Owl\nJack in the Box\nWendy\nBurger King\nChester Cheetah\nColonel Sanders\nJolly Green Giant \nLittle Caesar\nThe Noid\nBig Boy\nMr. Peanut \nCharles Entertainment Cheese\nPop N. Fresh"
+    thread:
+      post: https://bsky.app/profile/did:plc:xav3zyko74nb5mwr4cng6ngo/post/3mrdzrbtryk2j
+      root: https://bsky.app/profile/did:plc:xav3zyko74nb5mwr4cng6ngo/post/3mrdzrbtryk2j
 ---

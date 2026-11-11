@@ -19,5 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-09T04:08:51.889Z
     html: <p>low key considering restarting my newsletter</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mztw6z2l4k2c
+      root: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mztw6z2l4k2c
 ---
 Dooo iiitttt 🫶

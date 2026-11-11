@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:42.855Z
     html: "<p>coming soon: the less computer handbook</p>"
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mvjaozedmk2v
+      root: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mvj6jdsxuc2c
+      parent: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mvj6uvqgos25
 ---

@@ -32,4 +32,7 @@ _micropubSocialSnapshots:
       fetchedAt: 2026-11-07T04:28:44.013Z
       html: '<p>Otso: Local-first IndieWeb toolkit for archiving, syncing, harmonizing, and publishing your internet trails and streams. <a href="https://otso.run/">https://otso.run</a><br><br>(Decided to try hallucinating a new piece of <a href="https://bsky.app/hashtag/indieweb">#indieweb</a> software into existence. Would you run Otso?)</p>'
       images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:bx7mw7vvjnom2zdbo6t32zdt/post/3lysavjkxvs2q
+      root: https://bsky.app/profile/did:plc:bx7mw7vvjnom2zdbo6t32zdt/post/3lysavjkxvs2q
 ---

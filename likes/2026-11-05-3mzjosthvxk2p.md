@@ -17,4 +17,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:02.519Z
     html: <p>(I did a talk like a week ago for the metropolitan library conference in Utrecht and it was a recording so I got to cut all the takes where I was just crying.)</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzjosthvxk2p
+      root: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzj5faxfn22h
+      parent: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mzjoqqrpzc2p
 ---

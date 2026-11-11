@@ -32,4 +32,7 @@ _micropubSocialSnapshots:
       fetchedAt: 2026-11-07T04:28:52.846Z
       html: <p>lmao the eurovision mascot is so ugly I literally screamed at this reveal</p>
       images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:o2zbts7lyuztn2uy5pqaikhi/post/3mhjaxerhmc2w
+      root: https://bsky.app/profile/did:plc:o2zbts7lyuztn2uy5pqaikhi/post/3mhjaxerhmc2w
 ---

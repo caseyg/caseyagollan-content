@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:39.983Z
     html: <p>instead of zest &amp; juice , maybe swap in preserved lemon ? esp if you're already thinking capers</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:pqh5viypiraq36nzodrgey5i/post/3kabjfelpjh2t
+      root: https://bsky.app/profile/did:plc:flo3aqd3kv33hgqc2kiwj362/post/3kabiocnao72k
+      parent: https://bsky.app/profile/did:plc:flo3aqd3kv33hgqc2kiwj362/post/3kabiocnao72k
 ---

@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:29:01.684Z
     html: <p>6,500 academics across 300 US institutions responded to the prompt. I was absolutely floored. As a computer scientist, my instinct was to analyze these responses with NLP-based methods. But after I read a few, it didn’t feel like we could do justice to these responses without reading them ourselves.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulqljxtc2h
+      root: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulp6dzd22h
+      parent: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulpxds3s2h
 ---

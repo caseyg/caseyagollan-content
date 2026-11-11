@@ -19,4 +19,7 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:26:55.625Z
     html: <p>Of course placing my mom’s obituary—dodging the “AI rewrite” features that kept popping up as I did so—subscribed me to four marketing newsletters and added an unwanted solicitation for memorial trees to the end of the obit. Of course it did. Hellscape.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mwoejipbbc2b
+      root: https://bsky.app/profile/did:plc:qrt5rykojeg5sbsajbu4zdke/post/3mwoejipbbc2b
 ---

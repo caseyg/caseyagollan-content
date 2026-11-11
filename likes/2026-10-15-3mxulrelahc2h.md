@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:25:38.018Z
     html: <p>We enlisted help from senior author and sociologist <a href="https://bsky.app/profile/did:plc:ssqoxe7zhq7swqw6nsw3bl5h">@larivera.bsky.social</a>, who patiently taught me how to do qualitative research and convinced me of its importance.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulrelahc2h
+      root: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulp6dzd22h
+      parent: https://bsky.app/profile/did:plc:xhapvj5sk26ahcoekvbnl2gh/post/3mxulqljxtc2h
 ---

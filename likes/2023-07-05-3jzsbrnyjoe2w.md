@@ -19,4 +19,8 @@ _micropubSocialSnapshots:
     fetchedAt: 2026-11-07T04:28:30.930Z
     html: <p>That photo is just the best thing I'm going to see today.</p>
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:cmdjmhhbzxvx6la7l6yfd63s/post/3jzsbrnyjoe2w
+      root: https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3jzph3yjgym27
+      parent: https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3jzph3yjgym27
 ---

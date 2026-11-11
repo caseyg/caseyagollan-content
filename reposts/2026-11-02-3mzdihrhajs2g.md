@@ -21,4 +21,7 @@ _micropubSocialSnapshots:
       title: computer etiquette
       description: "thinking through computer etiquette with Bianca Wylie \n\nsharing what some of us are finding socially difficult about computer use. dealing with it together..."
     images: []
+    thread:
+      post: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mzdihrhajs2g
+      root: https://bsky.app/profile/did:plc:2asvaazeexmofxfzmwzpny2i/post/3mzdihrhajs2g
 ---
