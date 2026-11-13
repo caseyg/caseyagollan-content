@@ -5,7 +5,6 @@ _micropubContentFormat: text
 date: 2026-11-13T10:04:13-05:00
 _micropubType: h-entry
 syndication:
-  - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3n27ayvfq6eos
   - https://social.coop/@caseyg/117610533805044055
 ---
 Mandy Brown:
