@@ -1,7 +1,7 @@
 ---
 bookmarkOf: https://aworkinglibrary.com/writing/against-disliteracy
 title: Against disliteracy
-_micropubContentFormat: text
+_micropubContentFormat: markdown
 date: 2026-11-13T10:04:13-05:00
 _micropubType: h-entry
 syndication:
