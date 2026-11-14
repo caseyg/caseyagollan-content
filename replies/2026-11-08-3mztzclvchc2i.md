@@ -1,5 +1,5 @@
 ---
-_micropubContentFormat: text
+_micropubContentFormat: html
 inReplyTo: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mztw6z2l4k2c
 date: 2026-11-08T22:47:11-05:00
 pesos-source:
@@ -23,4 +23,4 @@ _micropubSocialSnapshots:
       post: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mztw6z2l4k2c
       root: https://bsky.app/profile/did:plc:dza4xvuc5eq24wmt6cj3r57l/post/3mztw6z2l4k2c
 ---
-Dooo iiitttt 🫶
+<p>Dooo iiitttt 🫶</p>
