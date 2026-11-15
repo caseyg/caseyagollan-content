@@ -5,6 +5,12 @@ photo:
     alt: A pixelated photo of a page of a book with all text blurred out except two segments reading “Virtue Hoarders” and “In the eternal words of my late Latin teacher at the City of University of New York, “Disco Inferno“ or “I learn in Hell.“”
 visibility: public
 updated: 2026-08-16T14:48:14.008-04:00
+syndication:
+  - https://social.coop/@caseyg/117106657591489237
+  - https://bsky.app/profile/caseyagollan.com/post/3mt7ttvabhk27
+pesos-source:
+  - mastodon:post:117106657591489237
+  - at://did:plc:s3fw2giksymfvruno3tvem4k/app.bsky.feed.post/3mt7ttvabhk27
 ---
 
 A pixelated photo of a page of a book with all text blurred out except two segments reading “Virtue Hoarders” and “In the eternal words of my late Latin teacher at the City of University of New York, “Disco Inferno“ or “I learn in Hell.“ 
