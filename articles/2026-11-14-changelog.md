@@ -7,7 +7,7 @@ summary: A post composer at /new and a rebuilt edit page, so I can write, edit
   thread rollups, link cards and quoted posts. New sitewide nav and 404 page,
   site search, post type filters, a much faster library, and branch previews.
 category: changelog
-draft: true
+draft: false
 ---
 
 ## Publishing
