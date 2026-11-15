@@ -7,6 +7,9 @@ _micropubType: h-entry
 syndication:
   - https://social.coop/@caseyg/117610533805044055
   - https://bsky.app/profile/did:plc:s3fw2giksymfvruno3tvem4k/post/3n27ayvfq6eos
+category:
+  - reading
+updated: 2026-11-15T16:41:32-05:00
 ---
 Mandy Brown:
 
