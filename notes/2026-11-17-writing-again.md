@@ -4,6 +4,9 @@ post-status:
   - published
 date: 2026-11-17T17:01:11-05:00
 _micropubType: h-entry
+syndication:
+  - https://bsky.app/profile/caseyagollan.com/post/3n2k266bitm74
+  - https://social.coop/@caseyg/117634055686317631
 ---
 Writing and sharing a bit again here:
 
