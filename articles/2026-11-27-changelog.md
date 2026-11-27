@@ -7,7 +7,7 @@ summary: Live cursors and cursor chat on every page. The site is now an MCP
   that maps everything I saved in a week onto a table. The site keeps a
   private, searchable copy of my Readwise, Raindrop and Are.na.
 category: changelog
-draft: true
+draft: false
 ---
 
 ## Live cursors
