@@ -9,7 +9,7 @@ summary: An AI chat that follows me around the site, with tools for searching,
   Bluesky on posts, syndication threads with photos, and every IndieWeb post
   type.
 category: changelog
-draft: true
+draft: false
 ---
 
 ## Chat
